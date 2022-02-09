@@ -1,5 +1,11 @@
 # Github Page (Academic) of H. Feng
 ## Introductory materials and tutorials
+
+### Setup your toolbox
+* For data science and machine learning, R and Python are two mostly used programming language. For scientific computing, another two popular choices are MATLAB and Julia. The courses I teach cover three of them: MATLAB, R, and Python. 
+  * MATLAB is expensive to use for commercial purpose, but many universities have subscribed to some of their academic licenses.
+  * R, Python, and the relative new Julia are all open source.
+* A popular development environment is Anaconda, which can bundle Python, R, and Julia together. [Here](./MachineLearning/About_Conda.html) is a very simple tutorial (in Chinese) I provided for my students regarding how to set up Anaconda.
 ### Machine Learning related
 + [Here](./MachineLearning/Script_Demo_GradientDescent_ADADELTA.html) are some tests regarding introductory example comparing the following algorithms. (The tests are mainly for educational purpose.)
   + Gradient Descent (whose wiki page can be found [here](https://en.wikipedia.org/wiki/Gradient_descent)). An illustrative implementation is given [here](MachineLearning/ML_GradientDescent.m)
