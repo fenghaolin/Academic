@@ -6,6 +6,7 @@
   * MATLAB is expensive to use for commercial purpose, but many universities have subscribed to some of their academic licenses. In addition, the [GNU](https://www.gnu.org/) community offers the excellent open source [Octave](https://www.gnu.org/software/octave/index), which shares the same language syntax with MATLAB. The advantage of using MATLAB is that, it is extremely easy to learn -- you can probably start using it to write your own research code after a few hours of reading online tutorials.
   * R, Python, and the relative new Julia are all open source, and each of them has its own strength. R is famous for statistics and data visualization, while Python is a general-purpose programming language wildly used in many areas. On the other hand, Julia offers excellent speed.
 * A popular development environment is Anaconda, which can bundle Python, R, and Julia together. [Here](./MachineLearning/About_Conda.html) is a very simple tutorial (in Chinese) I provided for my students regarding how to set up Anaconda.
+
 ### Machine Learning related
 + [Here](./MachineLearning/Script_Demo_GradientDescent_ADADELTA.html) are some tests regarding introductory example comparing the following algorithms. (The tests are mainly for educational purpose.)
   + Gradient Descent (whose wiki page can be found [here](https://en.wikipedia.org/wiki/Gradient_descent)). An illustrative implementation is given [here](MachineLearning/ML_GradientDescent.m)
